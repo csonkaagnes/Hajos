@@ -27,6 +27,7 @@ div {
     flex-shrink: 1;
 }
 
+
 #vezérlő {
     display: flex;
     flex-direction: row;
@@ -36,7 +37,12 @@ div {
 #kép {
  
 }
-
+.jo {
+    background-color: green;
+}
+.rossz{
+    background-color: red;
+}
 .gomb {
     padding: 20px;
     width: 80px;
